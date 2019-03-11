@@ -1,0 +1,43 @@
+{
+    "width" : 1024,
+    "height" : 1024,
+    "colors" :
+        [
+            [
+                [
+                    "000#body0.png", "001#body1.png", "002#body2.png", 
+					"003#body3.png", "004#body4.png", "005#body5.png", 
+					"006#body6.png", "007#body7.png", "008#body8.png", 
+					"009#body9.png", "010#body10.png", "011#body11.png", 
+					"012#body12.png", "013#body13.png", "014#body14.png"
+                ],
+                [
+                    "000#fur0.png", "001#fur1.png", "002#fur2.png", 
+					"003#fur3.png", "004#fur4.png", "005#fur5.png", 
+					"006#fur6.png", "007#fur7.png", "008#fur8.png", 
+					"009#fur9.png"
+                ],
+				[
+                    "000#eyes0.png", "001#eyes1.png", "002#eyes2.png", 
+					"003#eyes3.png", "004#eyes4.png", "005#eyes5.png", 
+					"006#eyes6.png", "007#eyes7.png", "008#eyes8.png", 
+					"009#eyes9.png", "010#eyes10.png", "011#eyes11.png", 
+					"012#eyes12.png", "013#eyes13.png", "014#eyes14.png"
+                ],
+				[
+                    "000#mouth0.png", "001#mouth1.png", "002#mouth2.png", 
+					"003#mouth3.png", "004#mouth4.png", "005#mouth5.png", 
+					"006#mouth6.png", "007#mouth7.png", "008#mouth8.png", 
+					"009#mouth9.png"
+                ],
+                [
+                    "000#accessory0.png", "001#accessory1.png", "002#accessory2.png", 
+					"003#accessory3.png", "004#accessory4.png", "005#accessory5.png", 
+					"006#accessory6.png", "007#accessory7.png", "008#accessory8.png", 
+					"009#accessory9.png", "010#accessory10.png", "011#accessory11.png", 
+					"012#accessory12.png", "013#accessory13.png", "014#accessory14.png", 
+					"015#accessory15.png"
+                ]
+            ]
+        ]
+}

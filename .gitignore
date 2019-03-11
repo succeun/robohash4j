@@ -1,0 +1,14 @@
+# Ignore filename
+#ignore-file.txt
+
+# If suffix is '/', Ignore Path
+#ignore-dir/
+
+# Use wildcard
+#ignore-file*
+#*.log
+
+
+src/main/webapp/WEB-INF/classes/
+src/main/webapp/WEB-INF/lib/
+/target/

@@ -1,0 +1,73 @@
+{
+    "width" : 1015,
+    "height" : 1015,
+    "colors" :
+        [
+            [
+                [
+                    "005#01BaseFace_000#Robot-Design71.png", "005#01BaseFace_001#Robot-Design9.png", "005#01BaseFace_002#Robot-Design43.png", 
+					"005#01BaseFace_003#Robot-Design32.png", "005#01BaseFace_004#Robot-Design75.png", "005#01BaseFace_005#Robot-Design40.png", 
+					"005#01BaseFace_006#Robot-Design37.png", "005#01BaseFace_007#Robot-Design60.png", "005#01BaseFace_008#Robot-Design64.png", 
+					"005#01BaseFace_009#Robot-Design48.png", "005#01BaseFace_010#Robot-Design24.png", "005#01BaseFace_011#Robot-Design13.png", 
+					"005#01BaseFace_012#Robot-Design21.png", "005#01BaseFace_013#Robot-Design7.png", "005#01BaseFace_014#Robot-Design36.png", 
+					"005#01BaseFace_015#Robot-Design1.png", "005#01BaseFace_016#Robot-Design81.png", "005#01BaseFace_017#Robot-Design58.png", 
+					"005#01BaseFace_018#Robot-Design83.png", "005#01BaseFace_019#Robot-Design86.png", "005#01BaseFace_020#Robot-Design5.png", 
+					"005#01BaseFace_021#Robot-Design20.png", "005#01BaseFace_022#Robot-Design2.png", "005#01BaseFace_023#Robot-Design88.png", 
+					"005#01BaseFace_024#Robot-Design25.png", "005#01BaseFace_025#Robot-Design42.png", "005#01BaseFace_026#Robot-Design27.png", 
+					"005#01BaseFace_027#Robot-Design63.png", "005#01BaseFace_028#Robot-Design30.png", "005#01BaseFace_029#Robot-Design80.png", 
+					"005#01BaseFace_030#Robot-Design28.png", "005#01BaseFace_031#Robot-Design59.png", "005#01BaseFace_032#Robot-Design35.png", 
+					"005#01BaseFace_033#Robot-Design46.png", "005#01BaseFace_034#Robot-Design17.png", "005#01BaseFace_035#Robot-Design51.png", 
+					"005#01BaseFace_036#Robot-Design57.png", "005#01BaseFace_037#Robot-Design15.png", "005#01BaseFace_038#Robot-Design62.png", 
+					"005#01BaseFace_039#Robot-Design49.png", "005#01BaseFace_040#Robot-Design72.png", "005#01BaseFace_041#Robot-Design54.png", 
+					"005#01BaseFace_042#Robot-Design90.png", "005#01BaseFace_043#Robot-Design82.png", "005#01BaseFace_044#Robot-Design31.png", 
+					"005#01BaseFace_045#Robot-Design84.png", "005#01BaseFace_046#Robot-Design74.png", "005#01BaseFace_047#Robot-Design11.png", 
+					"005#01BaseFace_048#Robot-Design69.png", "005#01BaseFace_049#Robot-Design53.png", "005#01BaseFace_050#Robot-Design78.png", 
+					"005#01BaseFace_051#Robot-Design16.png", "005#01BaseFace_052#Robot-Design87.png", "005#01BaseFace_053#Robot-Design14.png", 
+					"005#01BaseFace_054#Robot-Design6.png", "005#01BaseFace_055#Robot-Design73.png", "005#01BaseFace_056#Robot-Design47.png", 
+					"005#01BaseFace_057#Robot-Design23.png", "005#01BaseFace_058#Robot-Design50.png", "005#01BaseFace_059#Robot-Design65.png", 
+					"005#01BaseFace_060#Robot-Design19.png", "005#01BaseFace_061#Robot-Design66.png", "005#01BaseFace_062#Robot-Design76.png", 
+					"005#01BaseFace_063#Robot-Design77.png", "005#01BaseFace_064#Robot-Design38.png", "005#01BaseFace_065#Robot-Design85.png", 
+					"005#01BaseFace_066#Robot-Design3.png", "005#01BaseFace_067#Robot-Design67.png", "005#01BaseFace_068#Robot-Design12.png", 
+					"005#01BaseFace_069#Robot-Design18.png", "005#01BaseFace_070#Robot-Design56.png", "005#01BaseFace_071#Robot-Design8.png", 
+					"005#01BaseFace_072#Robot-Design55.png", "005#01BaseFace_073#Robot-Design89.png", "005#01BaseFace_074#Robot-Design61.png", 
+					"005#01BaseFace_075#Robot-Design52.png", "005#01BaseFace_076#Robot-Design70.png", "005#01BaseFace_077#Robot-Design45.png", 
+					"005#01BaseFace_078#Robot-Design34.png", "005#01BaseFace_079#Robot-Design41.png", "005#01BaseFace_080#Robot-Design33.png", 
+					"005#01BaseFace_081#Robot-Design29.png", "005#01BaseFace_082#Robot-Design22.png", "005#01BaseFace_083#Robot-Design10.png", 
+					"005#01BaseFace_084#Robot-Design26.png", "005#01BaseFace_085#Robot-Design68.png", "005#01BaseFace_086#Robot-Design39.png", 
+					"005#01BaseFace_087#Robot-Design4.png", "005#01BaseFace_088#Robot-Design79.png", "005#01BaseFace_089#Robot-Design44.png"
+                ],
+                [
+                    "001#02Wave_000#wave1.png"
+                ],
+				[
+                    "006#03Antenna_000#Robot-Design9.png", "006#03Antenna_001#Robot-Design7.png", "006#03Antenna_002#Robot-Design1.png", 
+					"006#03Antenna_003#Robot-Design5.png", "006#03Antenna_004#Robot-Design2.png", "006#03Antenna_005#Robot-Design6.png", 
+					"006#03Antenna_006#Robot-Design3.png", "006#03Antenna_007#Robot-Design8.png", "006#03Antenna_008#Robot-Design10.png", 
+					"006#03Antenna_009#Robot-Design4.png"
+                ],
+				[
+                    "003#04Eyes_000#Robot-Design9.png", "003#04Eyes_001#Robot-Design7.png", "003#04Eyes_002#Robot-Design1.png", 
+					"003#04Eyes_003#Robot-Design5.png", "003#04Eyes_004#Robot-Design2.png", "003#04Eyes_005#Robot-Design11.png", 
+					"003#04Eyes_006#Robot-Design6.png", "003#04Eyes_007#Robot-Design3.png", "003#04Eyes_008#Robot-Design12.png", 
+					"003#04Eyes_009#Robot-Design8.png", "003#04Eyes_010#Robot-Design10.png", "003#04Eyes_011#Robot-Design4.png"
+                ],
+                [
+                    "002#05Eyebrows_000#Robot-Design9.png", "002#05Eyebrows_001#Robot-Design7.png", "002#05Eyebrows_002#Robot-Design1.png", 
+					"002#05Eyebrows_003#Robot-Design5.png", "002#05Eyebrows_004#Robot-Design2.png", "002#05Eyebrows_005#Robot-Design11.png", 
+					"002#05Eyebrows_006#Robot-Design6.png", "002#05Eyebrows_007#Robot-Design3.png", "002#05Eyebrows_008#Robot-Design12.png", 
+					"002#05Eyebrows_009#Robot-Design8.png", "002#05Eyebrows_010#Robot-Design10.png", "002#05Eyebrows_011#Robot-Design4.png"
+                ],
+                [
+                    "004#06Nose_000#Robot-Design9.png", "004#06Nose_001#Robot-Design7.png", "004#06Nose_002#Robot-Design1.png", 
+					"004#06Nose_003#Robot-Design5.png", "004#06Nose_004#Robot-Design2.png", "004#06Nose_005#Robot-Design11.png", 
+					"004#06Nose_006#Robot-Design6.png", "004#06Nose_007#Robot-Design3.png", "004#06Nose_008#Robot-Design8.png", 
+					"004#06Nose_009#Robot-Design10.png", "004#06Nose_010#Robot-Design4.png"
+                ],
+                [
+                    "000#07Mouth_000#Robot-Design9.png", "000#07Mouth_001#Robot-Design7.png", "000#07Mouth_002#Robot-Design1.png", 
+					"000#07Mouth_003#Robot-Design5.png", "000#07Mouth_004#Robot-Design2.png", "000#07Mouth_005#Robot-Design6.png", 
+					"000#07Mouth_006#Robot-Design3.png", "000#07Mouth_007#Robot-Design8.png", "000#07Mouth_008#Robot-Design4.png"
+                ]
+            ]
+        ]
+}
